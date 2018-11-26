@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1DAD3888-08D6-4E2F-0331-4D9AB607E014}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "IreliaFanGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
